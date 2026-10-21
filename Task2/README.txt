@@ -14,14 +14,6 @@ FEATURES
 - Displays a formatted summary in the terminal
 - Writes results to portfolio_summary.csv
 
-HOW TO RUN
-1. Keep portfolio.py and constituents.txt in the same folder.
-2. Open a terminal or command prompt in that folder.
-3. Run: python portfolio.py
-   If that does not work, try: python3 portfolio.py
-4. Enter a ticker symbol, purchase price, quantity, and current price.
-5. Type DONE when asked for another ticker symbol to finish and save the CSV.
-
 SAMPLE PRICES
 The program offers a few sample prices for demonstration only. They are NOT live
 market prices. You can choose to use a sample price or enter a current price
